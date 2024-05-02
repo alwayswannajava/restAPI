@@ -1,0 +1,10 @@
+INSERT INTO groups (group_id, group_name) values (1, 'WA-21');
+INSERT INTO groups (group_id, group_name) values (2, 'AK-92');
+INSERT INTO groups (group_id, group_name) values (3, 'KT-96');
+INSERT INTO groups (group_id, group_name) values (4, 'AB-12');
+INSERT INTO groups (group_id, group_name) values (5, 'TW-61');
+INSERT INTO groups (group_id, group_name) values (6, 'LW-61');
+INSERT INTO groups (group_id, group_name) values (7, 'PT-72');
+INSERT INTO groups (group_id, group_name) values (8, 'MV-15');
+INSERT INTO groups (group_id, group_name) values (9, 'WO-74');
+INSERT INTO groups (group_id, group_name) values (10, 'IV-85');
